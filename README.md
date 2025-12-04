@@ -29,7 +29,7 @@ This project demonstrates **Text Classification**, **Data Preprocessing**, and *
 ├── requirements.txt      \# List of dependencies  
 └── README.md             \# Project documentation
 
-## **⚙️ How to Run**
+## ** How to Run**
 
 1. **Clone the Repo**  
    git clone \[https://github.com/yourusername/smartticket-nlp.git\](https://github.com/yourusername/smartticket-nlp.git)  
